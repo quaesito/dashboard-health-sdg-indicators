@@ -1,7 +1,3 @@
-# A Gentle Introduction to Developing and Deploying Dash via Heroku
-This Git repo accompanies the tutorial article on Medium  
-
-The Heroku app is hosted at https://dash-dev-tutorial.herokuapp.com/
-
-![](readme_images/heroku_app.gif)
-
+# Data Dashboard for Health SDG Inficators
+Data Source http://ghdx.healthdata.org/record/ihme-data/gbd-2017-health-related-sdgs-1990-2030
+Data Dashboard http://health-sdg-indicators.herokuapp.com/
